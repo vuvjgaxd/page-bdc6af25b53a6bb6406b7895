@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.wyasnak.cn/sitemap.xml
